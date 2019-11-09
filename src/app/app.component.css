@@ -1,0 +1,22 @@
+.card {
+  font-family: sans-serif;
+  width: 400px;
+  background-color: greenyellow;
+}
+.title {
+  font-size: 30px;
+  text-align: center;
+  color: purple;
+}
+.card-image {
+  width: 100%;
+}
+.description-title {
+  font-size: 24px;
+  text-align: center;
+  color: crimson
+}
+.description {
+  font-size: 18px;
+  color:darkblue;
+}
